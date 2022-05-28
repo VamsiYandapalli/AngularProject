@@ -8,6 +8,7 @@ import { Recipe } from '../../recipe.model';
 })
 export class RecipeItemComponent implements OnInit {
 //This is null comment
+//This is second null comment
   @Input() recipe:Recipe;
 
   constructor() { }
