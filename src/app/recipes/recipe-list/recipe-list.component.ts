@@ -21,9 +21,6 @@ export class RecipeListComponent implements OnInit {
   ];
   
   constructor() {
-    // const  recipeName =  (this.recipes[0].name);
-    // const recipeDesc = this.recipes[0].description;
-    // const recipeImagePath = this.recipes[0].imagePath;
    }
 
   ngOnInit(): void {
