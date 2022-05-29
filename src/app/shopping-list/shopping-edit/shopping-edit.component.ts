@@ -38,6 +38,7 @@ export class ShoppingEditComponent implements OnInit {
 
   }
 
-  //This is a null comment
+  //This is a null Statement 1
+  //This is null statement 2
 
 }
